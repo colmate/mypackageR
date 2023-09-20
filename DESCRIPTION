@@ -14,3 +14,5 @@ Suggests:
 Config/testthat/edition: 3
 Imports: 
     mvtnorm
+URL: https://github.com/colmate/mypackageR
+BugReports: https://github.com/colmate/mypackageR/issues
