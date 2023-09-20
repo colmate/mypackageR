@@ -7,3 +7,5 @@
 mypackageR.Rcheck/
 mypackageR*.tar.gz
 mypackageR*.tgz
+
+*.Rproj
