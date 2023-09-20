@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.Rdata
+.httr-oauth
+.DS_Store
+.quarto
+mypackageR.Rcheck/
+mypackageR*.tar.gz
+mypackageR*.tgz
