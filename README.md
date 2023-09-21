@@ -3,4 +3,6 @@
 
 Package created for the training HeavyR
 
-test
+<!-- badges: start -->
+[![R-CMD-check](https://github.com/colmate/mypackageR/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/colmate/mypackageR/actions/workflows/R-CMD-check.yaml)
+<!-- badges: end -->
