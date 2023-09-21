@@ -7,3 +7,8 @@
 ^mypackageR\.Rcheck$
 ^mypackageR.*\.tar\.gz$
 ^mypackageR.*\.tgz$
+^README\.Rmd$
+^\.github$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
