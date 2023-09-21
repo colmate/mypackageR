@@ -14,3 +14,7 @@ knitr::opts_chunk$set(
 ```
 
 Package created for the training HeavyR
+
+Test conflits 
+
+
